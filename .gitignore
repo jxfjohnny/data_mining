@@ -1,0 +1,7 @@
+# specific
+*.png
+*.jpg
+*.txt
+*.whl
+reference/
+venv_dm/
